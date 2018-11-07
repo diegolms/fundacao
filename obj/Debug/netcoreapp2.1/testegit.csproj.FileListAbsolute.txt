@@ -1,0 +1,11 @@
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/bin/Debug/netcoreapp2.1/testegit.deps.json
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/bin/Debug/netcoreapp2.1/testegit.runtimeconfig.json
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/bin/Debug/netcoreapp2.1/testegit.runtimeconfig.dev.json
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/bin/Debug/netcoreapp2.1/testegit.dll
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/bin/Debug/netcoreapp2.1/testegit.pdb
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/obj/Debug/netcoreapp2.1/testegit.csprojAssemblyReference.cache
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/obj/Debug/netcoreapp2.1/testegit.csproj.CoreCompileInputs.cache
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/obj/Debug/netcoreapp2.1/testegit.AssemblyInfoInputs.cache
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/obj/Debug/netcoreapp2.1/testegit.AssemblyInfo.cs
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/obj/Debug/netcoreapp2.1/testegit.dll
+/Users/diegolopes/Documents/Diego/Projetos2018/fundação bradesco/C#/workspace/testegit/obj/Debug/netcoreapp2.1/testegit.pdb
